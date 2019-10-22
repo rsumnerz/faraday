@@ -64,7 +64,7 @@ passlib==1.7.1
 pbr==4.0.4
 pgcli==1.9.1
 pgspecial==1.11.0
-Pillow==5.1.0
+Pillow==6.2.0
 pluggy==0.6.0
 prompt-toolkit==1.0.15
 psycopg2==2.7.4
