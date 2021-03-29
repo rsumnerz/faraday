@@ -73,7 +73,7 @@ pyasn1==0.4.3
 pyasn1-modules==0.2.1
 pycparser==2.18
 pydot==1.2.4
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==18.0.0
 pyparsing==2.2.0
 pytest==3.6.1
